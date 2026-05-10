@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Chalitha Wickramasingha</h1>
+<h1 align="center">Hi 👋 I'm Chalitha Wickramasingha</h1>
 
-<h3 align="center">Software Engineering Intern at Sri Lanka Telecom | Full-Stack Developer </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Intern+at+Sri+Lanka+Telecom;Full-Stack+Developer&font=Fira+Code&center=true&width=700&height=80&color=00F7FF&vCenter=true&pause=1200&size=24" />
+</p>
 
 ---
 
@@ -66,18 +68,36 @@ Driven Software Engineering undergraduate currently gaining hands-on industry ex
 
 </td>
 
-<!-- RIGHT SIDE: GITHUB STATS -->
+
+
+<!-- RIGHT SIDE: GLASS STYLE LANGUAGES PANEL -->
 <td valign="top" width="35%">
 
-### 📊 GitHub Stats
+<div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chalitha-wickramasingha&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<!-- Glass container effect (simulated) -->
+<table>
+<tr>
+<td style="background: rgba(255,255,255,0.05); padding:20px; border-radius:15px;">
 
-<br/>
+### 💡 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalitha-wickramasingha&layout=compact&theme=radical&hide_border=true)
+<img 
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=chalitha-wickramasingha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+  width="100%"
+  height="320"
+/>
 
 </td>
+</tr>
+</table>
+
+</div>
+
+</td>
+
+
+
 
 </tr>
 </table>

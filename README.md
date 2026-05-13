@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋 I'm Chalitha Wickramasingha</h1>
+<h1 align="center">Hi 👋 I'm Chalitha Wickramasingha</h1> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chalitha-wickramasingha&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Intern+at+Sri+Lanka+Telecom;Full-Stack+Developer&font=Fira+Code&center=true&width=700&height=80&color=00F7FF&vCenter=true&pause=1200&size=24" />
@@ -14,7 +20,7 @@ Passionate about building user-focused applications, writing clean and maintaina
 
 ---
 
-## 🚀 Current Focus
+## ⚡ Current Focus
 
 - 🔭 Working as a Software Engineering Intern at Sri Lanka Telecom
 - 🌱 Learning Cloud Computing & System Design
@@ -159,19 +165,13 @@ Passionate about building user-focused applications, writing clean and maintaina
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=320&lines=Portfolio+Coming+Soon..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=320&lines=Portfolio+in+development..." />
 </p>
 
 
 
 
 
-<p align="center">
-
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=chalitha-wickramasingha&style=for-the-badge&color=blue" />
-
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">

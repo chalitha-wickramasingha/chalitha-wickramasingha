@@ -6,10 +6,10 @@
 </p>
 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Intern+at+Sri+Lanka+Telecom;Full-Stack+Developer&font=Fira+Code&center=true&width=700&height=80&color=00F7FF&vCenter=true&pause=1200&size=24" />
 </p>
-
+-->
 ---
 
 # 💫 About Me:

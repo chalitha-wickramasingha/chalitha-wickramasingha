@@ -14,7 +14,7 @@
 
 # 💫 About Me:
 
-A Computer Science undergraduate and a Software Engineering Intern at Sri Lanka Telecom with a strong interest in full-stack development, scalable systems, and modern web technologies.
+A Computer Science undergraduate <!--and a Software Engineering Intern at Sri Lanka Telecom -->with a strong interest in full-stack development, scalable systems, and modern web technologies.
 
 Passionate about building user-focused applications, writing clean and maintainable code, and continuously improving through real-world projects and collaborative development.<br>
 
